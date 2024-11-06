@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Astronomy
     institution: Shanghai Jiao Tong University
-    date_start: 2020-09
-    date_end: 2025-06 (estimated)
+    date_start: 2020-09-01
+    date_end: 2025-07-01 (estimated)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Yu Yu](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
