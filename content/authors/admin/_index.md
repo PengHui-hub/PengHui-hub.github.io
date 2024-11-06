@@ -74,8 +74,8 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Space Science and Technology
     institution: Nanjing University of Aeronautics and Astronautics
-    date_start: 2016-09
-    date_end: 2020-06
+    date_start: 2016-09-01
+    date_end: 2020-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
