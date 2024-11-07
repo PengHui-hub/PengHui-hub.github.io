@@ -1,13 +1,13 @@
 ---
 title: Precise self-calibration of interloper bias in spectroscopic surveys
 authors:
-- __Hui Peng__
+- '__Hui Peng__'
 - Yu Yu
 date: '2023-11-01'
 publishDate: '2024-11-06T08:50:02.389996Z'
 publication_types:
 - article-journal
-publication: '*MNRAS*'
+publication: '*Mon. Not. Roy. Astron. Soc.*'
 doi: 10.1093/mnras/stad2808
 abstract: Interloper contamination due to line misidentification is an important issue
   in the future low-resolution spectroscopic surveys. We realize that the algorithm
