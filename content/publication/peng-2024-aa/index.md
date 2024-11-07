@@ -1,7 +1,7 @@
 ---
 title: Reconstructing redshift distributions with photometric galaxy clustering
 authors:
-- '__Hui Peng__'
+- '**Hui Peng**'
 - Yu Yu
 date: '2024-10-01'
 publishDate: '2024-11-06T08:50:02.397515Z'

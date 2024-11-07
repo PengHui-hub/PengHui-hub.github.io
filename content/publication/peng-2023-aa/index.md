@@ -1,7 +1,7 @@
 ---
 title: Precise self-calibration of interloper bias in spectroscopic surveys
 authors:
-- '__Hui Peng__'
+- '**Hui Peng**'
 - Yu Yu
 date: '2023-11-01'
 publishDate: '2024-11-06T08:50:02.389996Z'
