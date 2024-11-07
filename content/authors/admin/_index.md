@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hui Peng (彭辉)
+title: Hui Peng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
