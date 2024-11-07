@@ -7,7 +7,7 @@ date: '2023-11-01'
 publishDate: '2024-11-06T08:50:02.389996Z'
 publication_types:
 - article-journal
-publication: '*mnras*'
+publication: '*MNRAS*'
 doi: 10.1093/mnras/stad2808
 abstract: Interloper contamination due to line misidentification is an important issue
   in the future low-resolution spectroscopic surveys. We realize that the algorithm
