@@ -54,7 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
-    id: publications
+    id: papers
     content:
       title: Publications
       text: ""
