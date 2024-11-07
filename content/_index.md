@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I utilize galaxy-galaxy correlations, such as the power spectrum, between tomographic bins of observed data to reconstuct the true redshift distributions within each bin.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I continuously update the algorithm and develop new redshift calibration methods, extending their applications to a range of observational data sets.
         
         Feel free to contact and collaborate 😃
     design:
@@ -54,6 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
