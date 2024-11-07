@@ -1,13 +1,13 @@
 ---
 title: Reconstructing redshift distributions with photometric galaxy clustering
 authors:
-- '**Hui Peng**'
+- Hui Peng
 - Yu Yu
 date: '2024-10-01'
 publishDate: '2024-11-06T08:50:02.397515Z'
 publication_types:
 - article-journal
-publication: '*J. Cosmol. Astropart. Phys.*'
+publication: '*J. Cosmol. Astropart. Phys*'
 doi: 10.1088/1475-7516/2024/10/025
 abstract: The accurate determination of the true redshift distributions in tomographic
   bins is critical for cosmological constraints from photometric surveys. The proposed
