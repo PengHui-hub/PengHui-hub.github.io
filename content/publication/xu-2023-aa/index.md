@@ -4,7 +4,7 @@ title: Using angular two-point correlations to self-calibrate the photometric re
 authors:
 - Haojie Xu
 - Pengjie Zhang
-- Hui Peng
+- admin
 - Yu Yu
 - Le Zhang
 - Ji Yao
