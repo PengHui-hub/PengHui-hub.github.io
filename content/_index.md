@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I utilize galaxy-galaxy correlations, such as the power spectrum, between tomographic bins of observed data to reconstuct the true redshift distributions within each bin.
+        I utilize galaxy-galaxy correlations, such as the angular power spectra, between tomographic bins of observed data to reconstuct the true redshift distributions within each bin.
 
         I continuously update the algorithm and develop new redshift calibration methods, extending their applications to a range of observational data sets.
         
