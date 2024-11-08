@@ -1,6 +1,7 @@
 ---
 title: Using angular two-point correlations to self-calibrate the photometric redshift
   distributions of DECaLS DR9
+weight: 9
 authors:
 - Haojie Xu
 - Pengjie Zhang

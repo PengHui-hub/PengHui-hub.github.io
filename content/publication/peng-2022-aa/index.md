@@ -1,6 +1,7 @@
 ---
 title: Self-calibration of photometric redshift scatter from DECaLS DR8 power spectrum
   and validation with simulated catalogues
+weight: 10
 authors:
 - admin
 - Haojie Xu
