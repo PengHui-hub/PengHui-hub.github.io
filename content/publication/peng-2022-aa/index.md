@@ -11,7 +11,7 @@ date: '2022-11-01'
 publishDate: '2024-11-06T08:50:02.379165Z'
 publication_types:
 - article-journal
-publication: '*Mon. Not. Roy. Astron. Soc*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stac2713
 abstract: The uncertainty in the photometric redshift estimation is one of the major
   systematics in weak-lensing cosmology. The self-calibration method is able to reduce

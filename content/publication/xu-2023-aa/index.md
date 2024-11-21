@@ -16,7 +16,7 @@ date: '2023-03-01'
 publishDate: '2024-11-06T08:50:02.404746Z'
 publication_types:
 - article-journal
-publication: '*Mon. Not. Roy. Astron. Soc*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stad136
 abstract: 'Calibrating the redshift distributions of photometric galaxy samples is
   essential in weak lensing studies. The self-calibration method combines angular
