@@ -52,7 +52,7 @@ interests:
   - Weak Lensing
 
 education:
-  - area: Ph.D. candidate Astronomy
+  - area: Ph.D. candidate in Astronomy
     institution: Shanghai Jiao Tong University
     date_start: 2020-09-01
     date_end: 2025-07-01
