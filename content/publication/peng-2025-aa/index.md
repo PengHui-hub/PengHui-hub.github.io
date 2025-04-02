@@ -2,13 +2,13 @@
 title: Redshift Distributions of Fast Radio Bursts Inferred Using Clustering in Dispersion
   Measure Space
 authors:
-- Hui Peng
+- admin
 - Yu Yu
 date: '2025-04-01'
 publishDate: '2025-04-02T06:23:06.913759Z'
 publication_types:
 - article-journal
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/adbbda
 abstract: Fast radio bursts (FRBs), millisecond-duration radio transient events, possess
   the potential to serve as excellent cosmological probes. The FRB redshift distribution
